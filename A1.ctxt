@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=A1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=w
+comment2.target=boolean\ stopword(java.lang.String)
+comment2.text=\r\n\ Check\ if\ the\ word\ given\ is\ in\ the\ stopword\ list.\r\n\ @param\ w\ a\ word\ \r\n\ @return\ true\ if\ w\ is\ a\ stopword,\ false\ otherwise\r\n
+comment3.params=n
+comment3.target=void\ printWords(int)
+comment3.text=\ \r\n\ \ \ List\ the\ first\ n\ words\ in\ the\ list\ of\ words.\r\n\ \ \ @param\ n\ the\ number\ of\ words\ to\ list\r\n
+comment4.params=
+comment4.target=void\ readFile()
+comment4.text=\ \ \r\n\ \ \ Read\ the\ input\ file\ and\ process\ it.\ \r\n\ \ \ Input\ is\ on\ standard\ input\ and\ is\ read\ one\ \r\n\ \ \ word\ at\ a\ time\ --\ separated\ by\ whitespace.\ \r\n\ \r\n\ \ \ All\ non\ alphabetic\ characters\ are\ stripped\ out\ and\ \r\n\ \ \ words\ are\ all\ converted\ to\ lower\ case.\ \r\n\ \ \r\n\ \ \ Any\ non-stopword\ word\ is\ stored\ in\ the\ list\ of\ words\ \r\n\ \ \ and\ the\ number\ of\ occurances\ is\ tracked.\r\n
+comment5.params=
+comment5.target=void\ printResults()
+comment6.params=
+comment6.target=void\ run()
+comment6.text=Run\ the\ program.\ Read\ the\ file,\ then\ print\ the\ results.
+numComments=7

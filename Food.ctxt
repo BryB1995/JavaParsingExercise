@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Food
+comment1.params=
+comment1.target=Food()
+comment2.params=newCount\ newName
+comment2.target=Food(int,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getCount()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=count
+comment6.target=void\ setCount(int)
+comment7.params=f1
+comment7.target=int\ compareTo(Food)
+comment8.params=f1\ f2
+comment8.target=int\ compare(Food,\ Food)
+numComments=9
